@@ -1,13 +1,21 @@
 1. Introduction to Bash - Your Gateway to the Command Line
 
 1.1. Introduction to the Command Line:
-The command line is a text-based interface that lets you communicate directly with your computer's operating system. It's like talking to your computer using simple words and commands instead of clicking buttons. The command line is powerful and widely used in programming, system administration, and more. In this beginner-friendly article, we'll explore the basics of the command line and how it can be a valuable tool in your computing journey.
+The command line is a text-based interface that lets you communicate directly with your computer's operating system. It's like talking 
+to your computer using simple words and commands instead of clicking buttons. The command line is powerful and widely used in 
+programming, system administration, and more. In this beginner-friendly article, we'll explore the basics of the command line and how it 
+can be a valuable tool in your computing journey.
 
 1.2. Bash Basics:
-Bash, or "Bourne Again SHell," is a popular command-line interpreter used in Linux and Unix systems. Understanding Bash basics is crucial as it enables you to execute commands, write scripts, and automate tasks efficiently. Like I mentioned in the Introduction, you need to learn how to google effectively and google for the topics mentioned in this session and learn more about it. You should learn fundamental Bash concepts like running commands, accessing the terminal, and exploring the building blocks of this versatile shell.
+Bash, or "Bourne Again SHell," is a popular command-line interpreter used in Linux and Unix systems. Understanding Bash basics is 
+crucial as it enables you to execute commands, write scripts, and automate tasks efficiently. Like I mentioned in the Introduction, you 
+need to learn how to google effectively and google for the topics mentioned in this session and learn more about it. You should learn 
+fundamental Bash concepts like running commands, accessing the terminal, and exploring the building blocks of this versatile shell.
 
 1.3. Navigating the File System:
-Knowing how to navigate the file system is essential when using the command line. You need to through commands that help you move around directories, list files, and understand file paths. Whether you want to find, create, or organize files, mastering file system navigation is a foundational skill for effective command line usage.
+Knowing how to navigate the file system is essential when using the command line. You need to through commands that help you move around 
+directories, list files, and understand file paths. Whether you want to find, create, or organize files, mastering file system 
+navigation is a foundational skill for effective command line usage.
 
 - Help commands - These are the first help while we deal with the commands 
 - Working with directories - move around directories, create, delete directories etc. 
@@ -15,9 +23,16 @@ Knowing how to navigate the file system is essential when using the command line
 - Linux file system hierarchy 
 
 1.4. Text Processing:
-Text processing is a powerful aspect of the command line. You should google and learn commands like grep, sed, and awk, which allow you to manipulate and extract information from text files easily. These tools are handy for searching, filtering, and editing large amounts of text efficiently. Also cover the regular expressions. 
+Text processing is a powerful aspect of the command line. You should google and learn commands like grep, sed, and awk, which allow you 
+to manipulate and extract information from text files easily. These tools are handy for searching, filtering, and editing large amounts 
+of text efficiently. Also cover the regular expressions. 
 
-The command line offers a rich ecosystem of tools and utilities. Make sure you are good in handling linux commands before doing the shell scripting or learn the commands on the go. If you are not good in linux commands, it will slow down your journey in bash shell scripting. In this session, we introduce you to essential command-line tools that come pre-installed with your operating system. These tools can simplify tasks, manage files, process data, and more, helping you become more proficient in the command line environment.
+The command line offers a rich ecosystem of tools and utilities. Make sure you are good in handling linux commands before doing the 
+shell scripting or learn the commands on the go. If you are not good in linux commands, it will slow down your journey in bash shell 
+scripting. In this session, we introduce you to essential command-line tools that come pre-installed with your operating system. These 
+tools can simplify tasks, manage files, process data, and more, helping you become more proficient in the command line environment.
 
-The command line might seem daunting at first, but with our step-by-step approach, you'll soon feel confident navigating, scripting, and unleashing the power of this versatile tool in your everyday computing adventures. Happy scripting!
+
+The command line might seem daunting at first, but with our step-by-step approach, you'll soon feel confident navigating, scripting, and 
+unleashing the power of this versatile tool in your everyday computing adventures. Happy scripting!
 
