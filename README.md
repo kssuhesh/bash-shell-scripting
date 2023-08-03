@@ -25,3 +25,6 @@ Chapters:
 8. **Working with Files and Directories**: Manipulate files and directories using Bash commands.
 9. **Pipes and Redirection**: Harness the power of pipes and redirection to control input and output.
 10. **Script Debugging**: Learn techniques to debug your Bash scripts and identify issues.
+
+# Googling
+Before start learning bash shell scripting, you should learn to google effectively. Since googling is very important in learning not only bash scripting, it will help you to learn any topic. If you spent some dedicated for learning, you can learn anything without spending a single penny. First, you need to do some research on the topic, you are going to learn, in this situation, it is bash shell scripting, and note down the topics which you get from the google research. Take the topics one by one and learn it. 
