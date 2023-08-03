@@ -6,8 +6,11 @@ Bash scripting is a powerful skill for Linux admins, developers, and anyone work
 Are you eager to harness the power of the command line and automate tasks on your Linux system? Look no further! This tutorial is your gateway to the exciting world of Bash shell scripting, designed especially for beginners like you.
 
 📚 Step-by-Step Learning: Start from scratch and gradually build your skills with easy-to-follow examples.
+
 💻 Hands-On Practice: Get your hands dirty with practical exercises and real-world scenarios.
+
 🎯 Essential Concepts: Master the fundamentals, such as variables, conditionals, loops, and functions.
+
 🛠️ Time-Saving Techniques: Learn how to streamline repetitive tasks and boost productivity.
 
 Chapters:
