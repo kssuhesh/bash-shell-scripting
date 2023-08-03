@@ -1,0 +1,63 @@
+Bash scripts are powerful tools that allow you to automate tasks and execute a series of commands effortlessly. In this 
+step-by-step guide, we'll walk you through the process of running Bash scripts on your Linux or Unix system.
+
+1. Create a Bash Script:
+Start by opening a text editor and writing your Bash script. Save it with a ".sh" extension to indicate that it's a Bash 
+script. For example, you could create a script named "myscript.sh.". The extention .sh is not mandatory for the shell 
+scripts, but we use this to identify whether it is a shell script or not. System will not check these extentions while 
+running the script. 
+
+2. Set Execute Permission:
+Before you can run your script, you need to give it execute permission. Open the terminal and navigate to the directory 
+where your script is located. Use the following command to grant execute permission:
+
+" chmod +x myscript.sh "
+
+3. Check the Script Content:
+It's essential to review the script's content before running it. Ensure that you understand what the script will do to 
+avoid unintended consequences.
+
+4. Run the Script:
+There are multiple ways to run the script in the terminal. 
+
+  4.1.  To execute the script, type the following command in the terminal. Execute permission is mandatory in this case.
+  
+      ./myscript.sh
+
+  4.2. Use the absolute path of the script. Execute permission is mandatory in this case.
+  
+      /home/user/myscript.sh 
+
+  4.3. Use of bash command to execute the script, there is no need of execute permission required in this case. 
+
+      bash myscript.sh 
+
+  4.4 This option is usage of scripts as a command. Place the shell script in the binary command locaitons mentioned in the 
+      $PATH variable ( where the other commands are located ) and you can simply run the script. In this case "myscript.sh" 
+      should copy it to the binary command location and simply type the script in terminal. Execute permission is mandatory 
+      in this case.
+
+      myscript.sh 
+
+5. Providing Arguments (Optional):
+You can pass arguments to your script when running it. For example:
+
+    ./myscript.sh arg1 arg2
+    The script can access these arguments using special variables like "$1" and "$2."
+
+6. Viewing Script Output:
+The script will produce output, which will be displayed in the terminal. Review the output for any errors or expected results.
+
+7. Troubleshooting:
+If your script doesn't run as expected, double-check the script content and permissions. Use the "echo" command to print 
+debugging information in your script to trace issues. Also you can use "bash -x myscript.sh" in the temrinal to see the steps
+while executing the script, so we can troubleshoot the steps and identify it as well. 
+
+8. Exiting the Script:
+At the end of the script, you can use the "exit" command to terminate the script execution. For example:
+
+exit 0
+Here, "0" indicates a successful execution. Any other value indicates an error.
+
+Remember: Always be cautious when running scripts, especially those obtained from unknown sources. Scripts can have a significant 
+impact on your system, so ensure you trust the source and understand the script's purpose before executing it.
